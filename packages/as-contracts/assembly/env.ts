@@ -1,11 +1,11 @@
 /// <reference path="../../../node_modules/assemblyscript/std/assembly/index.d.ts" />
 
-// Declaration of imported host functions from substrate pallet-seal
+// Declaration of imported host functions from tetcore pallet-seal
 //
 // If these functions are not used by the AssemblyScript module, they will not be included
 // in the compiled wasm files.
 //
-// For reference, see https://github.com/paritytech/substrate/blob/master/frame/contracts/src/wasm/runtime.rs
+// For reference, see https://github.com/tetcoin/tetcore/blob/master/frame/contracts/src/wasm/runtime.rs
 
 // Stores the address of the current contract into the scratch buffer.
 export declare function ext_address(): void;

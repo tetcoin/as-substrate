@@ -1,9 +1,9 @@
-/// <reference path="../../../node_modules/@substrate/as-contracts/build/index.d.ts" />
+/// <reference path="../../../node_modules/@tetcore/as-contracts/build/index.d.ts" />
 
 import { u128 } from "as-bignum";
 
-import { contract, getBalanceOrZero, mergeToSha256, storage } from "@substrate/as-contracts";
-import { toBytes } from "@substrate/as-utils";
+import { contract, getBalanceOrZero, mergeToSha256, storage } from "@tetcore/as-contracts";
+import { toBytes } from "@tetcore/as-utils";
 
 /**
  *  Read the Ethereum ERC20 specs https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md

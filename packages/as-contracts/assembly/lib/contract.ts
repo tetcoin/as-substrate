@@ -1,5 +1,5 @@
 /// <reference path="../../../../node_modules/assemblyscript/std/assembly/index.d.ts" />
-/// <reference path="../../../../node_modules/@substrate/as-utils/build/index.d.ts" />
+/// <reference path="../../../../node_modules/@tetcore/as-utils/build/index.d.ts" />
 
 import { u128 } from "as-bignum";
 

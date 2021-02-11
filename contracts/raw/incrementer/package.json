@@ -1,7 +1,7 @@
 {
   "name": "assemblyscript-incrementer-contract",
   "version": "0.0.1",
-  "description": "Substrate Incrementer Smart Contract written in AssemblyScript",
+  "description": "Tetcore Incrementer Smart Contract written in AssemblyScript",
   "author": "Stefanie Doll",
   "main": "build/index.js",
   "types": "build/index.d.ts",

@@ -1,9 +1,9 @@
-/// <reference path="../../../node_modules/@substrate/as-contracts/build/index.d.ts" />
+/// <reference path="../../../node_modules/@tetcore/as-contracts/build/index.d.ts" />
 
 import { u128 } from "as-bignum";
 
-import { contract, storage } from "@substrate/as-contracts";
-import { toBytes } from "@substrate/as-utils";
+import { contract, storage } from "@tetcore/as-contracts";
+import { toBytes } from "@tetcore/as-utils";
 
 const FLIPPER_KEY = (new Uint8Array(32)).fill(2);
 

@@ -1,6 +1,6 @@
 /// <reference path="../../../../node_modules/assemblyscript/std/assembly/index.d.ts" />
 
-import { toBytes } from '@substrate/as-utils';
+import { toBytes } from '@tetcore/as-utils';
 import { crypto } from './crypto';
 import { storage } from './storage';
 

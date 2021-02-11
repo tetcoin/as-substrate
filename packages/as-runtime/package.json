@@ -1,5 +1,5 @@
 {
-  "name": "@substrate/as-runtime",
+  "name": "@tetcore/as-runtime",
   "version": "0.0.1",
   "description": "A Polkadot Runtime in AssemblyScript",
   "author": "Stefanie Doll",
@@ -16,7 +16,7 @@
   "dependencies": {
     "@assemblyscript/loader": "^0.9.1",
     "@as-pect/cli": "^4.0.0",
-    "@substrate/as-utils": "0.0.1",
+    "@tetcore/as-utils": "0.0.1",
     "as-bignum": "^0.2.2",
     "assemblyscript": "0.12.3"
   },

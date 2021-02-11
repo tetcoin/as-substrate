@@ -1,9 +1,9 @@
 # Incrementer example
 
-A basic Parity Substrate smart contract written in AssemblyScript
+A basic Tetcoin Tetcore smart contract written in AssemblyScript
 
-This contract does not use the functions provided by the `@substrate/as-contract` package.
-It is a stand-alone AssemblyScript contract that can be executed on any substrate chain that includes the contracts pallet.
+This contract does not use the functions provided by the `@tetcore/as-contract` package.
+It is a stand-alone AssemblyScript contract that can be executed on any tetcore chain that includes the contracts pallet.
 
 ### How to compile it
 

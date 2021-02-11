@@ -1,7 +1,7 @@
 {
-  "name": "@substrate/as-utils",
+  "name": "@tetcore/as-utils",
   "version": "0.0.1",
-  "description": "Set of AssemblyScript utility functions for as-substrate packages",
+  "description": "Set of AssemblyScript utility functions for as-tetcore packages",
   "author": "Stefanie Doll",
   "license": "Apache-2.0",
   "ascMain": "assembly/index.ts",

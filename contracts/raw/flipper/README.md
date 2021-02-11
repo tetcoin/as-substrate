@@ -1,9 +1,9 @@
 # Flipper example
 
-A raw Parity Substrate smart contract example written in AssemblyScript
+A raw Tetcoin Tetcore smart contract example written in AssemblyScript
 
-This contract does not use the functions provided by the `@substrate/as-contract` package.
-It is a stand-alone AssemblyScript contract that can be executed on any substrate chain that includes the contracts pallet.
+This contract does not use the functions provided by the `@tetcore/as-contract` package.
+It is a stand-alone AssemblyScript contract that can be executed on any tetcore chain that includes the contracts pallet.
 
 ### How to compile it
 

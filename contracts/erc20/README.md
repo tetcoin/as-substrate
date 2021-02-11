@@ -1,6 +1,6 @@
 # ERC-20 contract example
 
-A Parity Substrate ERC-20 smart contract example written in AssemblyScript.
+A Tetcoin Tetcore ERC-20 smart contract example written in AssemblyScript.
 It implements most important parts of the token interface defined by the [Ethereum ERC-20 Token Standard](https://eips.ethereum.org/EIPS/eip-20).
 
 ### How to compile it
