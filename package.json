@@ -4,7 +4,7 @@
   "description": "Collection of Tetcore projects written in AssemblyScript",
   "author": "Stefanie Doll",
   "license": "Apache-2.0",
-  "private": true,
+  "private": false,
   "workspaces": [
     "packages/*",
     "contracts/*",
